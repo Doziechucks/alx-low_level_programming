@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - assigning of random number
- * return: Always return 0 if successful
+ * Return: Always 0 if successful
 */
 /* betty style doc for function main goes there */
 int main(void)
