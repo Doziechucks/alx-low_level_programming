@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Prints line without puts and printf
- * Return - Always return 1
+ * Return: Always return 1
  */
 
 int main(void)
