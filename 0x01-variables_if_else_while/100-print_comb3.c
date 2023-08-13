@@ -5,8 +5,8 @@
  */
 int main(void)
 {
-	int x;
-	int y;
+	int x = '0';
+	int y = '0';
 
 	for (y = 0; y < 10; y++)
 	{
