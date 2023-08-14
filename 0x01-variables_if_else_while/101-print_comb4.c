@@ -15,7 +15,7 @@ int main(void)
 		{
 			for (z = 0; z <= 9; z++)
 			{
-				if (!((x == y) || (y > x) || (z == x) || (z == y) || (z > x)))
+				if (!((x == y) || (y > x) || (z == x) || (y == z) || (x > z) || (y > z)))
 				{
 					putchar('0' + y);
 					putchar('0' + x);
